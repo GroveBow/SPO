@@ -1,3 +1,4 @@
 any text
 any operations + - * /
 any special () {}многатекста вся+кого
+if while () {} else esle
